@@ -7,6 +7,51 @@ I design, build, and run web, mobile, and backend systems. I bring **15+ years o
 
 [Portfolio](https://faheem.hashmights.com) · [LinkedIn](https://www.linkedin.com/in/faheemhashmi/) · [GitHub](https://github.com/faheemdev78)
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/faheemdev78/ai-assistant-demo">
+        <img alt="ai-assistant-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=faheemdev78&repo=ai-assistant-demo&theme=github-light&hide_border=true" />
+      </a>
+      <br />
+      A Node + TypeScript AI assistant with OpenAI streaming and tool calling, plus a React chat UI and mock mode.
+      <br />
+      <sub><b>Express · Vite · Zod</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/faheemdev78/nextjs-mongodb-saas-starter">
+        <img alt="nextjs-mongodb-saas-starter" src="https://github-readme-stats.vercel.app/api/pin/?username=faheemdev78&repo=nextjs-mongodb-saas-starter&theme=github-light&hide_border=true" />
+      </a>
+      <br />
+      Harbor, a Next.js 16 SaaS starter with authentication, roles, and tests.
+      <br />
+      <sub><b>Auth.js · MongoDB/Mongoose · shadcn/ui · Vitest · Playwright</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/faheemdev78/react-native-starter">
+        <img alt="react-native-starter" src="https://github-readme-stats.vercel.app/api/pin/?username=faheemdev78&repo=react-native-starter&theme=github-light&hide_border=true" />
+      </a>
+      <br />
+      An Expo SDK 58 strict-TypeScript app with an auth flow, theming, and 27 tests.
+      <br />
+      <sub><b>Expo Router · Zustand · TanStack Query</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/faheemdev78/apollo-graphql-starter">
+        <img alt="apollo-graphql-starter" src="https://github-readme-stats.vercel.app/api/pin/?username=faheemdev78&repo=apollo-graphql-starter&theme=github-light&hide_border=true" />
+      </a>
+      <br />
+      An Apollo Server 4 schema-first GraphQL API with JWT roles and subscriptions.
+      <br />
+      <sub><b>DataLoader · MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
+
 ## What I do
 - Lead architecture, code review, and delivery for in-house products and client contracts at **Hashmight Solutions**.
 - Build web, mobile, and backend systems with **Node.js, TypeScript, Next.js, Python, and React Native**.
